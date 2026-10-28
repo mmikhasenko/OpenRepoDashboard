@@ -1,0 +1,132 @@
+{
+  "categories": {
+    "JuliaDev": "General packages in Julia",
+    "DecayModels": "Specific models of hadron physics and amplitude analysis"
+  },
+  "repositories": [
+    {
+      "repository": "mmikhasenko/HadronicLineshapes.jl",
+      "category": "JuliaDev"
+    },
+    {
+      "repository": "mmikhasenko/NumericalDistributions.jl",
+      "category": "JuliaDev"
+    },
+    {
+      "repository": "mmikhasenko/RamboOnDiet.jl",
+      "category": "JuliaDev"
+    },
+    {
+      "repository": "mmikhasenko/ScatteringKMatrix.jl",
+      "category": "JuliaDev"
+    },
+    {
+      "repository": "mmikhasenko/ThreeBodyDecays.jl",
+      "category": "JuliaDev"
+    },
+    {
+      "repository": "RUB-EP1/BuildConstructors.jl",
+      "category": "JuliaDev"
+    },
+    {
+      "repository": "RUB-EP1/CascadeDecays.jl",
+      "category": "JuliaDev"
+    },
+    {
+      "repository": "RUB-EP1/HighEnergyTools.jl",
+      "category": "JuliaDev"
+    },
+    {
+      "repository": "RUB-EP1/InstructionalDecayTrees.jl",
+      "category": "JuliaDev"
+    },
+    {
+      "repository": "RUB-EP1/SpinStates.jl",
+      "category": "JuliaDev"
+    },
+    {
+      "repository": "RUB-EP1/ThreeBodyDecaysIO.jl",
+      "category": "JuliaDev"
+    },
+    {
+      "repository": "JuliaHEP/DistributionsHEP.jl",
+      "category": "JuliaDev"
+    },
+    {
+      "repository": "JuliaHEP/FourVectors.jl",
+      "category": "JuliaDev"
+    },
+    {
+      "repository": "JuliaHEP/G4Examples.jl",
+      "category": "JuliaDev"
+    },
+    {
+      "repository": "JuliaHEP/LorentzVectorBase.jl",
+      "category": "JuliaDev"
+    },
+    {
+      "repository": "JuliaHEP/Minuit2.jl",
+      "category": "JuliaDev"
+    },
+    {
+      "repository": "JuliaHEP/RooFitLite.jl",
+      "category": "JuliaDev"
+    },
+    {
+      "repository": "JuliaHEP/UnROOT.jl",
+      "category": "JuliaDev"
+    },
+    {
+      "repository": "mmikhasenko/FairSim.jl",
+      "category": "DecayModels"
+    },
+    {
+      "repository": "mmikhasenko/Jpsipipi.jl",
+      "category": "DecayModels"
+    },
+    {
+      "repository": "mmikhasenko/Lc2ppiKSemileptonicModelLHCb.jl",
+      "category": "DecayModels"
+    },
+    {
+      "repository": "mmikhasenko/PiPiMadrid.jl",
+      "category": "DecayModels"
+    },
+    {
+      "repository": "mmikhasenko/PolePositionOfA1fromTau",
+      "category": "DecayModels"
+    },
+    {
+      "repository": "mmikhasenko/pwa_from_scratch",
+      "category": "DecayModels"
+    },
+    {
+      "repository": "mmikhasenko/Tcc2DDpi.jl",
+      "category": "DecayModels"
+    },
+    {
+      "repository": "mmikhasenko/X3872Flatte.jl",
+      "category": "DecayModels"
+    },
+    {
+      "repository": "mmikhasenko/X3872ThreeBodyLineshape.jl",
+      "category": "DecayModels"
+    },
+    {
+      "repository": "mmikhasenko/xDDPhaseSpace.jl",
+      "category": "DecayModels"
+    },
+    {
+      "repository": "RUB-EP1/B2DxDK.jl",
+      "category": "DecayModels"
+    },
+    {
+      "repository": "amikhasenko/PiPiBochum.jl",
+      "category": "DecayModels"
+    },
+    {
+      "repository": "JointPhysicsAnalysisCenter/Interpretation_of_4312_signal",
+      "category": "DecayModels"
+    }
+  ]
+}
